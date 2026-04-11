@@ -1,3 +1,7 @@
 /* 
 * Cambiar el color del elemento con id titulo.
 */
+
+#titulo {
+  color: aqua;
+}
