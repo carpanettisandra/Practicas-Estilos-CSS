@@ -1,3 +1,9 @@
 /* 
 * Cambiar el color de los links cuando el mouse pasa por arriba (:hover).
 */
+.link1:hover {
+  background-color: red;
+}
+.link2:hover {
+  background-color: blue;
+}
